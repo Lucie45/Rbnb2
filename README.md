@@ -17,7 +17,8 @@ make all
 # Description : 
 
 * On va estimer le prix de logements grace a l'utilisation d'un tableau representant le fichier
-* 
+Effectuer un ordonnancement grace a l'utilisation des files
+* On va
 *On commence par creer un tableau reprenant les elements du fichier
 *chacun des elements du tableau contient lui-meme un tableau avec les distances qu'il a avec chaque autres logements
 *On randomise le tableau pour comparer les elements avec un nouveau logement
